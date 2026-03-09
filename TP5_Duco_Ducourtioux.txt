@@ -1,1 +1,2 @@
 "Antoine Ducourtioux | James Duco" 
+y=ax+b est une fonction affine 
